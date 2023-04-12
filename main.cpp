@@ -29,7 +29,7 @@ int main() {
 
     glfwDestroyWindow(window);
 
-    glfwTerminate();  
+    glfwTerminate();
 
     return 0;
 }
